@@ -1,13 +1,13 @@
 import './App.css'
-import Pagination from './Pagination'
+import Filter from './Filter'
 
 function App() {
   
 
   return (
     <>
-     <h2>Home Page</h2>
-    <Pagination/>
+    
+    <Filter/>
     </>
   )
 }
